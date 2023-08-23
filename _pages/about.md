@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "<p align='center'><font size='+2'><b>On a mission: learning how to apply computational and data science skills to solve problems in sustainable agriculture</b></font></p>"
-excerpt: "On a mission: learning how to apply computational and data science skills to solve problems in sustainable agriculture"
+title: "<p align='center'><font size='+2'><b>Understanding how plants sense and respond to changing environments</b></font></p>"
+excerpt: "Understanding how plants sense and respond to changing environments"
 author_profile: true
 redirect_from: 
   - /about/
