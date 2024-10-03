@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chosen Obih"
+title                    : "Ulises Hernández"
 title_separator          : "-"
-name                     : &name "Chosen Obih"
-description              : &description "Plant Science PhD Student | Computational Biologist"
-url                      : https://chosenobih.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ulises Hernández"
+description              : &description "Ecology and evolutionary biology PhD candidate | Population geneticist"
+url                      : https://ulisesjiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "chosenobih/chosenobih.github.io"
+repository               : "ulisesjiu/ulisesjiu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chosen Obih"
+  name             : "Ulises Hernández"
   avatar           : "headshot.jpg"
-  bio              : "Plant Science PhD Student | Computational Biologist"
+  bio              : "Ecology and evolutionary biology PhD candidate | Population geneticist"
   location         : "Tucson, AZ, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tTrw1jYAAAAJ&hl=en"
-  email            :  "chosenobih@arizona.edu"
+  email            :  "uliseshmc@arizona.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chosenobih"
+  github           : "ulisesjiu"
   google_plus      :
   keybase          :
-  instagram        :  "chosen.obih"
+  instagram        :  "ulises_hmc"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "chosenobih"
-  orcid            : "https://orcid.org/0000-0002-9387-0632"
+  linkedin         :  ""
+  orcid            : "https://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@bio_chosen"
+  twitter          : "@uliseshmc"
   vine             :
   weibo            :
   xing             :
