@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ulises Hernández"
 title_separator          : "-"
 name                     : &name "Ulises Hernández"
-description              : &description "Ecology and evolutionary biology PhD candidate | Population geneticist"
+description              : &description "Ecology and Evolutionary Biology PhD candidate | Population geneticist"
 url                      : https://ulisesjiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ulisesjiu/ulisesjiu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ulises Hernández"
   avatar           : "headshot.jpg"
-  bio              : "Ecology and evolutionary biology PhD candidate | Population geneticist"
+  bio              : "Ecology and Evolutionary Biology PhD candidate | Population geneticist"
   location         : "Tucson, AZ, USA"
   employer         :
   pubmed           : 
